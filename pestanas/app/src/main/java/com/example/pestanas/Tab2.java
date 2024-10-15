@@ -36,23 +36,8 @@ public class Tab2 extends Fragment {
                              Bundle savedInstanceState) {
        View view= inflater.inflate(R.layout.fragment_tab2, container, false);
         mVideo=view.findViewById(R.id.videoView);
-//        mVideo.setVideoURI(Uri.parse("https://www.youtube.com/watch?v=UelDrZ1aFeY/"));
-//        mVideo.setVideoPath("/storage/emulated/0/video.mp4");
-//        mVideo.setMediaController(new MediaController(view.getContext()));
-//
-//        mVideo.start();
-//        mVideo.requestFocus();
-//
-//        // Añadir un Toast para mostrar un mensaje de error si el vídeo no se carga
-//        mVideo.setOnErrorListener(new MediaPlayer.OnErrorListener() {
-//            @Override
-//            public boolean onError(MediaPlayer mediaPlayer, int i, int i1) {
-//                Toast.makeText(view.getContext(), "Error al cargar el vídeo", Toast.LENGTH_LONG).show();
-//
-//                return false;
-//            }
-//        });
-//         Inflate the layout for this fragment
+        mVideo.loadUrl("https://www.youtube.com/watch?v=UelDrZ1aFeY/");
+
         return view;
     }
 }
