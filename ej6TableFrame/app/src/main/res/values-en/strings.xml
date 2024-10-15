@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ej6-TableFrame</string>
+    <string name="nombre">Name</string>
+    <string name="dpto">Dept</string>
+    <string name="ciudad">City</string>
+    <string name="porcentaje">Percentage</string>
+    <string name="edad">age</string>
+    <string name="resultado">Result</string>
+</resources>

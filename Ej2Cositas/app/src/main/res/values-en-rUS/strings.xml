@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ej2-Cositas</string>
+    <string name="btn">Hello button</string>
+    <string name="texto">Hello world</string>
+    <string name="texto2">Shit</string>
+</resources>

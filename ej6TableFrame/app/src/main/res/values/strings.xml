@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ej6-TableFrame</string>
+    <string name="nombre">Nombre</string>
+    <string name="dpto">Dpto</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="porcentaje">Porcentaje</string>
+    <string name="santiago" translatable="false">Santiago</string>
+    <string name="cabecera_de_la_tabla" translatable="false">Cabecera de la tabla</string>
+    <string name="edad">edad</string>
+    <string name="resultado">Resultado</string>
+</resources>

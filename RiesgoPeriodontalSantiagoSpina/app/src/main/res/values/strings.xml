@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RiesgoPeriodontal-SantiagoSpina</string>
+    <string name="id">ID</string>
+    <string name="nombre_y_apellidos">Nombre y apellidos</string>
+    <string name="fecha">Fecha</string>
+    <string name="edad">Edad</string>
+    <string name="n_mero_de_dientes">Número de dientes</string>
+    <string name="sangrado">Sangrado:</string>
+    <string name="porcentaje">%</string>
+    <string name="enviar">Enviar</string>
+    <string name="riesgo">Riesgo ...</string>
+    <string name="ausencia_dientes">Ausencia dientes:</string>
+    <string name="puntos">...</string>
+    <string name="perdida_insercion">Pérdida inserción:</string>
+    <string name="diabetes">Diabetes:</string>
+    <string name="si_no">si/no</string>
+    <string name="tabaco">Tabaco:</string>
+    <string name="_1_2_3">1,2,3</string>
+    <string name="profundidad_bolsa">Profundidad bolsa:</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultadoFinal">TOTAL: 55%. RIESGO ALTO DE ENFERMEDAD PERIODONTAL</string>
+</resources>
