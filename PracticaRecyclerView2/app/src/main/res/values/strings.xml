@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticaRecyclerView</string>
+    <string name="nombre_seleccion">Nombre seleccion</string>
+</resources>
